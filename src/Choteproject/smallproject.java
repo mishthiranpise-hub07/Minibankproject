@@ -71,7 +71,7 @@ public class smallproject {
                         return;
                     }
 
-                    depo = balance += depo;
+                    //depo = balance += depo;
                     // balance+=depo;
                     System.out.println("Transaction successful");
                     System.out.println("Your total balance now = " + depo);
@@ -90,7 +90,7 @@ public class smallproject {
                         return;
                     }
 
-                    with = balance -= with;
+                  //  with = balance -= with;
 
                     System.out.println("Transaction successful");
 
