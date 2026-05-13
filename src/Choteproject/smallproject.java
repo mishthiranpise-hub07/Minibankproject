@@ -7,7 +7,7 @@ public class smallproject {
         System.out.println("<----WELCOME TO ATHARVA ❤  BANK---->");
 
         //int Dep = 0;
-        int pin = 2216;
+     //   int pin = 2216;
 
         double balance = 10000.00;
 
@@ -37,13 +37,13 @@ public class smallproject {
                 //sc.close();
             }
             
-        int A = 0;
-        while(A<=3){
-            System.out.println("End of attempt");
-            A++;
-            return;
-        }
-           for(int i = 0; i<3; i++); 
+//        int A = 0;
+//        while(A<=3){
+//            System.out.println("End of attempt");
+//            A++;
+//            return;
+//        }
+//           for(int i = 0; i<3; i++); 
             
             
             
